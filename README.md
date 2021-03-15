@@ -1,4 +1,4 @@
-# go-modules
+# go-modules (Package Management)
 
 ## In this repository you will learn how to use the go modules in golang.
 ## Steps you need to follow.
